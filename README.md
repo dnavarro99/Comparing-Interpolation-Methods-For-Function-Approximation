@@ -1,1 +1,2 @@
 # Comparing-Interpolation-Methods-For-Function-Approximation
+# The purpose of this report is to evaluate and compare the accuracy and efficiency of different interpolation methods, including linear interpolation, quadratic interpolation, cubic spline interpolation, Neville's method, and Lagrange interpolation. The report also aims to identify the strengths and limitations of each method and provide recommendations for the most suitable method for a given set of data.
